@@ -80,11 +80,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "GymFit - Fitness Club App",
+    des: "The ultimate fitness companion app for personalized workouts, progress tracking, and achieving your fitness goals.",
+    img: "/gym-fit.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/fm.svg"],
+    link: "https://6673eef370b58f1aa29eb378--darling-youtiao-45083b.netlify.app/",
   },
   {
     id: 3,
