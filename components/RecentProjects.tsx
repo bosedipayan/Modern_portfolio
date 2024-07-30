@@ -65,7 +65,7 @@ const RecentProjects = () => {
                   ))}
                 </div>
 
-                <a href={item.link} target="_blank">
+                <a href={item.link} target="_blank" key={item.id}>
                   <div className="flex justify-center items-center">
                     <p className="flex lg:text-xl md:text-xs text-sm text-purple">
                       Check Live Site
