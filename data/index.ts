@@ -74,11 +74,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "EVento - One stop platform for events happening globally.",
+    des: "Book and connect with over 4,500+ mentors from leading companies and learn valuable tips within our global network.",
+    img: "/hero.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://e-vento-pi.vercel.app/",
   },
   {
     id: 2,
@@ -212,7 +212,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://x.com/BoseJisu01"
+    link: "https://x.com/dimesiah_10"
   },
   {
     id: 3,
