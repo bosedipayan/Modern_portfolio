@@ -76,7 +76,7 @@ export const projects = [
     id: 1,
     title: "EVento - One stop platform for events happening globally.",
     des: "Book and connect with over 4,500+ mentors from leading companies and learn valuable tips within our global network.",
-    img: "/hero.png",
+    img: "/hero_modify.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://e-vento-pi.vercel.app/",
   },
