@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "analyze": "ANALYZE=true next build"
   },
   "dependencies": {
     "@react-three/drei": "^9.108.4",
@@ -29,6 +30,7 @@
     "three-globe": "^2.31.1"
   },
   "devDependencies": {
+    "@next/bundle-analyzer": "^15.3.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
