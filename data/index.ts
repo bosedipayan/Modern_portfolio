@@ -90,8 +90,8 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "mediacraft_AI - Social Media Content Generator Platform using AI",
+    des: "Mediacraft_AI is an AI-powered platform that helps users quickly generate engaging social media content tailored for different platforms",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
