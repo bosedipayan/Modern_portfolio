@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Bosedipayan Portfolio",
   description: "Modern & Updated Portfolio",
+  icons: {
+    icon: "/logo.ico.ico", // Place this file inside /public
+  },
 };
 
 export default function RootLayout({
