@@ -176,14 +176,14 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of a web-based platform using React.js, Next.js, Typescript, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Full Stack Dev",
-    desc: "Designed and developed progressive web apps for large scale clients using MERN stack.",
+    desc: "Designed and developed progressive web apps for large scale clients using MERN stack, Java, Spring Boot, Microservices.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
