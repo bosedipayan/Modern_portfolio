@@ -219,4 +219,9 @@ export const socialMedia = [
     img: "/link.svg",
     link: "https://www.linkedin.com/in/dipayan-bose-658b50186/"
   },
+  {
+    id: 4,
+    img: "/medium.svg",
+    link: "https://medium.com/@bosedipayan2000"
+  }
 ];
